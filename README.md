@@ -16,10 +16,12 @@ This website allows you to gather information about users on GitHub. By entering
 - Local Storage
 
 ## Pictures of Website
-![githubProject-1](https://github.com/Tuzbay/Github-Search/assets/77413300/db9fd96f-ffa7-4a7e-8ed0-5f60a6a0f166)
-![githubProject-4](https://github.com/Tuzbay/Github-Search/assets/77413300/6b5d456e-8d36-483b-9328-4e19c42a6243)
-![githubProject-3](https://github.com/Tuzbay/Github-Search/assets/77413300/a6ffaad8-d2d6-4c2c-879e-4f81680b638f)
-![githubProject-2](https://github.com/Tuzbay/Github-Search/assets/77413300/70d03316-1d6c-44ba-9503-d5c09b84cb00)
+
+![githubProject-1](https://github.com/Tuzbay/Github-Search/assets/77413300/7a032918-1c72-4fe7-aa3a-2b974beb886f)
+![githubProject-4](https://github.com/Tuzbay/Github-Search/assets/77413300/ea603165-ec5a-4947-8cc6-3bd21499880a)
+![githubProject-3](https://github.com/Tuzbay/Github-Search/assets/77413300/98df106b-948c-49f9-94b8-bd6fafd939bc)
+![githubProject-2](https://github.com/Tuzbay/Github-Search/assets/77413300/a74b4122-bf80-414f-b06a-1791e1c0150d)
+
 
 ## To run the project, you must follow the steps below.
 
