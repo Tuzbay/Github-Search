@@ -1,0 +1,112 @@
+// ! General Styling Code ! \\
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+h2 {
+  margin: 0;
+}
+th,
+td {
+  font-size: 18px;
+  padding: 10px 30px;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #bebfc1;
+}
+
+// ! Card Styling Code ! \\
+
+.card {
+  background-color: #24292f;
+  border-radius: 30px;
+  display: flex;
+  flex-direction: column;
+  max-width: 1100px;
+  padding: 3rem;
+  text-align: center;
+  position: relative;
+
+  .card__icon {
+    color: white;
+    position: absolute;
+    right: 1rem;
+    top: 1rem;
+    cursor: pointer;
+
+    .heart {
+      color: red;
+    }
+  }
+
+  .card__info {
+    column-gap: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .avatar {
+      border: 4px solid rgb(208, 207, 207);
+      border-radius: 50%;
+      height: 200px;
+      margin-bottom: 1rem;
+      margin-top: -1rem;
+      width: 200px;
+    }
+
+    .card__user-info {
+      color: #bebfc1;
+
+      .card__user-location {
+        font-size: 1.1rem;
+      }
+
+      .card__user-bio {
+        max-width: 75%;
+        margin: 0 auto;
+      }
+
+      ul {
+        column-gap: 3rem;
+        display: flex;
+        justify-content: center;
+        margin-top: 1.5rem;
+
+        strong {
+          margin-left: 0.3rem;
+        }
+      }
+    }
+  }
+}
+
+// ! Table Styling Code ! \\
+
+table {
+  border-collapse: collapse;
+  color: #bebfc1;
+
+  thead {
+    th {
+      border-bottom: 1px solid #bebfc1;
+      font-weight: 600;
+    }
+  }
+
+  tbody {
+    .project-name {
+      color: #bebfc1;
+      text-decoration: none;
+      cursor: pointer;
+      a {
+        &:hover {
+          color: #09a8ec;
+          border-bottom: 1px solid #09a8ec;
+        }
+      }
+    }
+  }
+}

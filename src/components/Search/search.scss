@@ -1,0 +1,25 @@
+form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  input {
+    background-color: #24292f;
+    color: #bebfc1;
+    border: none;
+    border-radius: 14px;
+    font-family: inherit;
+    font-size: 1.3rem;
+    margin-bottom: 1.5rem;
+    padding: 1rem 0 1rem 2rem;
+    width: 18rem;
+
+    &::placeholder {
+      color: #bebfc1;
+    }
+
+    &:focus {
+      outline: none;
+    }
+  }
+}
