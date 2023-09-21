@@ -25,7 +25,7 @@ This website allows you to gather information about users on GitHub. By entering
 
 ## To run the project, you must follow the steps below.
 
-1- <code> git clone [https://github.com/Tuzbay/Weather-Forecast-React.git](https://github.com/Tuzbay/Github-Search.git) </code> <br/> 
+1- <code> git clone https://github.com/Tuzbay/Github-Search.git </code> <br/> 
 2- <code> npm install </code> <br/>
 3- <code> npm start </code>
 
